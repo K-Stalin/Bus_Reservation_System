@@ -1,8 +1,8 @@
 # Bus_Reservation_System
-This repository contains a Bus Reservation System using Python.
+This repository contains a Bus Reservation System using Python Object Oriented Programming.
 
 Features:
-   1)Booking
-   2)View Booking
-   3)View Buses
-   4)Exit Booking
+   -Booking
+   -View Booking
+   -View Buses
+   -Exit Booking
