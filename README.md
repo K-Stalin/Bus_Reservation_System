@@ -3,7 +3,7 @@ This repository contains a Bus Reservation System using Python Object Oriented P
 
 Features:
     
-   -Booking
-   -View Booking
-   -View Buses
-   -Exit Booking
+- Booking
+- View Booking
+- View Buses
+- Exit Booking
